@@ -36,6 +36,11 @@ If done correctly there should be `(venv)` in front of the prompt. For example
 pip3 install -U turicreate
 ```
 
-## 
+## Install kernel for Jupyter 
+
+In case we want to use this in jupyter, we need to install kernel first
+
+```
 pip3 install ipykernel
 python3 -m ipykernel install --user --name venv
+```
