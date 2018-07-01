@@ -1,0 +1,6 @@
+data/
+venv/
+*.sframe/
+*.mlmodel
+.ipynb_checkpoints/
+*.model/
